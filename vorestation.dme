@@ -2756,7 +2756,6 @@
 #include "code\modules\vore\fluffstuff\custom_clothes_vr.dm"
 #include "code\modules\vore\fluffstuff\custom_guns_vr.dm"
 #include "code\modules\vore\fluffstuff\custom_items_vr.dm"
-#include "code\modules\vore\fluffstuff\custom_items_vr_aeiou.dm"
 #include "code\modules\vore\fluffstuff\custom_mecha_vr.dm"
 #include "code\modules\vore\fluffstuff\custom_permits_vr.dm"
 #include "code\modules\vore\fluffstuff\guns\bsharpoon.dm"
@@ -2892,6 +2891,8 @@
 #include "maps\submaps\surface_submaps\wilderness\wilderness_areas.dm"
 #include "maps\tether\tether.dm"
 #include "maps\~map_system\maps.dm"
+#include "modular_aeiou\code\game\objects\items.dm"
 #include "modular_aeiou\code\modules\client\preference_setup\loadout\loadout_head.dm"
+#include "modular_aeiou\code\modules\clothing\clothing.dm"
 #include "modular_aeiou\code\modules\reagents\Chemistry-Reagents\Chemistry-Reagents-Other.dm"
 // END_INCLUDE
